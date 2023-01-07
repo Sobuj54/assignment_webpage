@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+}
+/* this will handle top section */
+.top-section{
+    background-image: url('../images/banner/banner3.png');
+    width: 1600px;
+height: 808px;
+}
+.top-section .head-writings{
+    text-align: right;
+}
+.top-section .heading{
+    font-weight: 700;
+    color: #FFFFFF;
+    padding: 216px 230px 24px 845px;
+    font-size: 65px;
+}
+.top-section .para{
+    font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+padding: 0 230px 32px 876px;
+}
+
+.top-section .btn-primary{
+   margin: 0 230px 166px 1210px;
+   width: 160px;
+height: 64px;
+color: #005FAC;
+font-weight: 800;
+font-size: 15px;
+}
+/* 1st section styling */
+.first-section{
+    display:flex;
+}
