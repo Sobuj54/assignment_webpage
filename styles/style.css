@@ -75,6 +75,9 @@
   padding: 20px 0;
 }
 /* below image section */
+.gradiants .description {
+  color: white;
+}
 .gradiants .btn-primary {
   width: 160px;
   height: 64px;
@@ -114,6 +117,7 @@
 }
 .footer .minor-para {
   padding-top: 20px;
+  font-weight: 400;
 }
 .footer .links {
   padding-top: 25px;
